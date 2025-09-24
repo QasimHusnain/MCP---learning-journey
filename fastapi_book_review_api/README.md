@@ -1,4 +1,4 @@
-📚 Book Review API
+📚Fastapi Book Review API
 ==================
 
 A simple **FastAPI** project where users can **register, login, add books, and write reviews**.\
