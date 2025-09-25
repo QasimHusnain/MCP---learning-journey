@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Poetry virtualenvs
+.venv/
+*.lock
+
+# Poetry cache
+.cache/
+.pypoetry/
+
+# VSCode or editor settings
+.vscode/
+.idea/
