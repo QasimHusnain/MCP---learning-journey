@@ -1,0 +1,17 @@
+[project]
+name = "py-jsonrpc-websockets-poetry"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Qasim Jutt",email = "157237213+QasimHusnain@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "websockets (>=15.0.1,<16.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
